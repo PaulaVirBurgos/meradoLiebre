@@ -1,0 +1,22 @@
+footer{
+    text-align: center;
+    margin:5px ;
+    padding: 10px;
+    background-color: var(--grisOscuro);
+}
+
+.icon{
+    color: var(--celeste);
+    font-size: 40px;
+    margin: 10px;
+}
+
+footer h3 {
+
+    font-size: 30px;
+}
+
+.textos {
+
+    font-size: 20px;
+}
